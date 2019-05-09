@@ -7,8 +7,10 @@
     padding-top: 10px;
   }
 
-  .navbar .navbar-brand a {
+  .resume a {
     color: grey;
+    margin-left: 15px;
+    margin-top: 15px;
   }
 
 header.masthead {
